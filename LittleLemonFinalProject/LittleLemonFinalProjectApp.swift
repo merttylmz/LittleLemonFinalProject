@@ -11,7 +11,7 @@ import SwiftUI
 struct LittleLemonFinalProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MenuItemsView()
         }
     }
 }
